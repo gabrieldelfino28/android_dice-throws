@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Dice Throw</string>
+    <string name="app_title">Lançamento de Dados</string>
+    <string name="text_question1">Quantos lançamentos?</string>
+    <string name="rd_input1">1</string>
+    <string name="rd_input2">2</string>
+    <string name="rd_input3">3</string>
+    <string name="text_question2">Qual tipo de dado?</string>
+    <string name="D4">D4</string>
+    <string name="D6">D6</string>
+    <string name="D8">D6</string>
+    <string name="D10">D10</string>
+    <string name="D12">D12</string>
+    <string name="D20">D20</string>
+    <string name="D100">D100</string>
+    <string name="btn_jogo">Jogar</string>
+</resources>
